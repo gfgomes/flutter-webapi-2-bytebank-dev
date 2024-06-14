@@ -9,6 +9,7 @@ final Client client = InterceptedClient.build(
 );
 
 //const String baseUrl = 'http://192.168.58.1:8080/transactions';
-const String baseUrl = 'http://10.1.9.107:8080/transactions';
+//const String baseUrl = 'http://10.1.9.107:8080/transactions';
+const String baseUrl = 'https://0f64-189-113-238-4.ngrok-free.app/transactions';
 
 //
